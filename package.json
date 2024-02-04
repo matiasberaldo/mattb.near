@@ -1,0 +1,8 @@
+{
+  "scripts": {
+     "dev": "bos-workspace dev"
+  },
+  "devDependencies": {
+    "bos-workspace": "^0.0.1-alpha.4"
+  }
+}
