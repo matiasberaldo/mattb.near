@@ -11,11 +11,11 @@ const Sections = styled.div`
 
 return (
   <>
-    <Widget src="mattb.near/widget/Frensly.Components.Header" loading="Loading..." />
+    <Widget src="mattb.near/widget/Frensly.Components.Header" />
 
     <Sections>
-      <Widget src="mattb.near/widget/Frensly.Components.RecentlyVerified" loading="Loading..." />
-      <Widget src="mattb.near/widget/Frensly.Components.HowToJoin" loading="Loading..." />
+      <Widget src="mattb.near/widget/Frensly.Components.RecentlyVerified" />
+      <Widget src="mattb.near/widget/Frensly.Components.HowToJoin" />
     </Sections>
   </>
 );
